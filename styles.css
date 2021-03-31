@@ -1,0 +1,17 @@
+:root {
+    --black: rgb(0, 0, 0);
+    --marine: #0c4880;
+    --electric-blue: rgb(51, 219, 248);
+}
+
+.header {
+    background-image: url(Blue-Rose.jpeg);
+}
+
+body {
+    background: var(--marine);
+}
+
+.work-container {
+    box-shadow: var(--electric-blue);
+}

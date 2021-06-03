@@ -10,7 +10,7 @@ My portfolio currenly contains several projects:
 2. Weather Dashboard - pull up current weather conditions and 5 day forecast using this app, search by city
 3. Work Day Scheduler - allows you to shcedule your work day and saves data to local storage
 4. Family Project - a fun website that displays cards with effects and contains information on my family 
-
+5. Anime Recommender - an app for anime fans who want more recommendations of anime to watch by various genre
 # Contact
 
 The section contains my actual email address, but I will update my phone number with the real one later
